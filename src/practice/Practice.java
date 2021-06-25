@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package practice;
+import java.util.ArrayList;
 
 /**
  *
@@ -15,7 +16,19 @@ public class Practice {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
+        
+        class Students {
+            
+            ArrayList<String> Students = new ArrayList<String>();
+            Students.add("Electric Sharpener");
+            Students.add("Mechanical Pencil");
+            Students.add("Hole-Puncher Ruler");
+            Students.add("Calculator");
+            Students.add("Pens");
+            System.out.println("Students");
     }
     
+}
+
 }
