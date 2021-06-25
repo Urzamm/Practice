@@ -28,7 +28,7 @@ public class Practice {
             Students.add("Pens");
             System.out.println("Students");
             
-            avldaj vnlwlsljvkb odsnvlksdvbjkVNAJVBWVNLKJBSDKV  ANLSVBAI N L
+            avldaj vnlwlsljvkb odsnvlksdvbjkVNAJVBWVNLKJBSDKV  ANLSVBAI N LA
     }
     
 }
