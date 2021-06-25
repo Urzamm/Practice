@@ -7,7 +7,7 @@ package practice;
 import java.util.ArrayList;
 
 /**
- *
+ *hI FAJNVA,V AK.V;AKVSKA V ALVNDS VnAO;NV ASANVAK. NA,
  * @author Urzam
  */
 public class Practice {
@@ -27,6 +27,8 @@ public class Practice {
             Students.add("Calculator");
             Students.add("Pens");
             System.out.println("Students");
+            
+            avldaj vnlwlsljvkb odsnvlksdvbjkVNAJVBWVNLKJBSDKV  ANLSVBAI N L
     }
     
 }
